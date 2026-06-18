@@ -108,6 +108,7 @@ export const products = [
         date: 1716634345448,
         bestseller: true
     },
+
     {
         _id: "aaaab",
         name: "Men Round Neck Pure Cotton T-shirt",
@@ -710,7 +711,7 @@ export const products = [
     {
         _id: "aaabz",
         name: "Men Slim Fit Relaxed Denim Jacket",
-        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        description: "  ",
         price: 350,
         image: [p_img52],
         category: "Men",
